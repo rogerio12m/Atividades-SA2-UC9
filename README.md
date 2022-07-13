@@ -1,1 +1,1 @@
-# Projeto do site Game-Mania
+# Projeto do site da Game Mania
